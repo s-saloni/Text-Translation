@@ -1,0 +1,71 @@
+bonjour
+salut
+au revoir
+salut
+qui
+quoi, qu'est-ce que, que [verbe-sujet]
+quand
+où
+pourquoi
+comment
+bien, bon, bonne
+mauvais, mauvaise
+petit, petite
+grand, grande
+facile
+difficile
+hier
+aujourd'hui
+demain
+temps
+heure
+minute
+seconde
+avenir
+présent
+passé
+argent
+espèces
+carte de crédit
+actions
+aller
+venir
+s'arrêter
+courir
+le même, la même
+différent
+langue
+mot
+nom
+ordinateur, ordi
+ordinateur portable, portable
+téléphone, portable
+télévision, télé 
+film
+musique
+dessiner
+tableau, peinture
+musée
+le, la, les
+être
+est
+(you) es, (they) sont
+main
+bras
+jambe
+football, foot
+tennis
+jeu
+étudier
+examen
+informatique
+ingénierie
+faire
+faire
+avec
+commencer
+finir
+anglais
+français
+espagnol
+russe

@@ -1,0 +1,71 @@
+hola
+saludos
+adiós
+adiós, hasta luego
+quién, quienes
+qué
+cuándo
+dónde
+por qué
+cómo
+bien
+mal
+pequeño/a
+grande
+fácil
+difícil
+ayer
+hoy
+mañana
+tiempo
+hora
+minuto
+segundo
+futuro
+presente
+pasado
+dinero
+efectivo
+tarjeta de crédito
+acciones
+ir
+venir, llegar
+parar, terminar
+correr
+igual, el mismo, la misma
+diferente
+idioma
+palabra
+nombre
+computadora
+portátil
+teléfono (celular)
+tele
+pelicula
+música
+dibujar
+pintura, cuadro
+museo
+el, la, los, las
+ser, estar
+eres, estás
+es, está, están
+mano
+brazo
+pierna
+fútbol
+tenis
+juego
+estudiar
+examen
+ciencias de la computación, informática
+ingeniería
+hacer
+hacer
+con
+empezar, comenzar
+terminar, acabar
+inglés
+francés
+español
+ruso
