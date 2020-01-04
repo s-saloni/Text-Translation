@@ -1,13 +1,13 @@
 ## **Final Project: Text Translation**
 #### Saloni Sharma
 
-#### **Files for project**
-##### README.md       : this readme file
-##### Text_files      : holds 4 .txt files with words from each language
-##### Translation.h   : header for Translation class
-##### Translation.cpp : source code for Translation class
-##### Tests.cpp       : code for some tests of different functions
-##### main.cpp        : code for running main program
+**Files for project**
+README.md       : this readme file
+Text_files      : holds 4 .txt files with words from each language
+Translation.h   : header for Translation class
+Translation.cpp : source code for Translation class
+Tests.cpp       : code for some tests of different functions
+main.cpp        : code for running main program
 
 
 #### **Run main program**
