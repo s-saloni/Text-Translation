@@ -1,5 +1,5 @@
-## **Final Project: Text Translation**
-#### Saloni Sharma
+## **Project: Text-to-Text Translation**
+### Saloni Sharma
 
 ### **Files**
 
