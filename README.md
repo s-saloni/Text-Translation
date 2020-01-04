@@ -34,6 +34,3 @@ To compile: g++ -o run_tests Tests.cpp Translation.cpp
 To run tests: ./run_tests
 
 
-
- 
-*Please note that it may work differently if using something other than JupyterLab's VSCode due to differences in UTF-8 encoding.
