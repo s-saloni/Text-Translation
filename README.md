@@ -1,10 +1,10 @@
-## Text-to-Text Translation
+# Text-to-Text Translation
 Saloni Sharma
 
-### **Project**
+## **Project**
 Utilizes four hash tables to translate words, which are included in the text files, between English, French, Spanish and Russian.
 
-### **Files**
+## **Files**
 
 * README.md       : this is the readme file you are viewing
 
@@ -19,7 +19,7 @@ Utilizes four hash tables to translate words, which are included in the text fil
 * main.cpp        : code for running main program
 
 
-### **Running main program**
+## **Running main program**
 
 _After going to the folder directory in terminal, run the main program using the following commands:_
 
@@ -28,7 +28,7 @@ _After going to the folder directory in terminal, run the main program using the
 * To execute program: ./makefile
 
 
-### **Running tests**
+## **Running tests**
 
 _To perform the tests, use the following commands:_
 
