@@ -1,36 +1,39 @@
-## **Project: Text-to-Text Translation**
-### Saloni Sharma
+## Text-to-Text Translation
+Saloni Sharma
+
+### **Project**
+Utilizes four hash tables to translate words, which are included in the text files, between English, French, Spanish and Russian.
 
 ### **Files**
 
-README.md       : this is the readme file you are viewing
+* README.md       : this is the readme file you are viewing
 
-txt_files      : holds 4 .txt files with words from each language
+* txt_files      : holds 4 .txt files with words from each language
 
-Translation.h   : header for Translation class
+* Translation.h   : header for Translation class
 
-Translation.cpp : source code for Translation class
+* Translation.cpp : source code for Translation class
 
-Tests.cpp       : code for some tests of different functions
+* Tests.cpp       : code for some tests of different functions
 
-main.cpp        : code for running main program
-
-
-### **Run main program**
-
-_After going to the folder directory in the terminal, run the main program using the following commands:_
-
-To compile: g++ -o makefile main.cpp Translation.cpp
-
-To execute program: ./makefile
+* main.cpp        : code for running main program
 
 
-### **Run tests**
+### **Running main program**
+
+_After going to the folder directory in terminal, run the main program using the following commands:_
+
+* To compile: g++ -o makefile main.cpp Translation.cpp
+
+* To execute program: ./makefile
+
+
+### **Running tests**
 
 _To perform the tests, use the following commands:_
 
-To compile: g++ -o run_tests Tests.cpp Translation.cpp
+* To compile: g++ -o run_tests Tests.cpp Translation.cpp
 
-To run tests: ./run_tests
+* To run tests: ./run_tests
 
 
